@@ -1,4 +1,4 @@
-# 📚 Advanced Recommender Systems
+# 📚 Advanced Recommender System
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-blue?logo=pytorch&logoColor=white) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-4.28.0-orange?logo=transformers&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-yellowgreen?logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4.8-orange?logo=jupyter&logoColor=white)
 
