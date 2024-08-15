@@ -62,7 +62,7 @@ By the end of Phase 1, the system has a fully functional retrieval framework tha
 
 ---
 
-## 🔍 Phase 2: **Advanced Document Classification and Clustering**
+## 🔍 Phase 2: **Document Classification and Clustering**
 
 ### Enhancing System Intelligence
 
@@ -81,7 +81,7 @@ At the conclusion of Phase 2, the system is equipped with advanced capabilities 
 
 ## 🛠️ Phase 3: **Personalized Recommendation and Enhanced User Interaction**
 
-### Integrating Advanced Features and User Customization
+### Integrating Ranking, Searching Features, and User Customization
 
 The final phase focuses on integrating all the elements developed so far and enhancing the system’s user interaction capabilities. This phase introduces advanced personalization features and recommendation systems, transforming the platform into a comprehensive research assistant.
 
