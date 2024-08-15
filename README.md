@@ -1,14 +1,14 @@
 # 📚 Advanced Recommender Systems
 
-Welcome to the **Advanced Recommender Systems**! This project represents an advanced exploration into information retrieval, document classification, and recommendation systems. Through a structured development process divided into three distinct phases, we build a sophisticated system that integrates diverse components to offer a robust, user-friendly tool for academic research and beyond.
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-blue?logo=pytorch&logoColor=white) ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-4.28.0-orange?logo=transformers&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-yellowgreen?logo=scikit-learn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4.8-orange?logo=jupyter&logoColor=white)
+
+Welcome to the **Advanced Recommender Systems**!
 
 ---
 
 ## 🚀 Project Overview
 
-The Advanced Recommender Systems evolves through three interconnected phases, each building upon the previous one to enhance capabilities and refine performance. The goal of this project is to create a comprehensive platform that excels in retrieving, classifying, ranking, and recommending documents tailored to user preferences.
-
-The pipeline of the project follows these key stages:
+Our goal is to create a comprehensive platform that excels in retrieving, classifying, ranking, and recommending documents tailored to user preferences. The pipeline of the project follows these key stages:
 
 1. **Data Collection & Preprocessing**: 
    - 📥 **Data Collection**: Gather academic paper data.
