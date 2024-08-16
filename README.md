@@ -1,10 +1,10 @@
 # 📚 Advanced Recommender System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-blue?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-orange?logo=transformers&logoColor=white" alt="Hugging Face Transformers">
-  <img src="https://img.shields.io/badge/scikit--learn-yellowgreen?logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face Transformers">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
 <p align="center">
 
