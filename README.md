@@ -1,11 +1,12 @@
 # 📚 Advanced Recommender System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-1.13.1-#EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-4.28.0-#E24C6A?logo=transformers&logoColor=white" alt="Hugging Face Transformers">
-  <img src="https://img.shields.io/badge/scikit--learn-1.2.2-#F7E03C?logo=scikit-learn&logoColor=black" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-6.4.8-#F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/PyTorch-2.0.1-blue?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-orange?logo=transformers&logoColor=white" alt="Hugging Face Transformers">
+  <img src="https://img.shields.io/badge/scikit--learn-yellowgreen?logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
+<p align="center">
 
 Welcome to the **Advanced Recommender Systems**!
 
